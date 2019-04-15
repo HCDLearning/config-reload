@@ -1,0 +1,21 @@
+{
+  "name": "config-reload",
+  "version": "1.0.0",
+  "description": "reload config when file changed.",
+  "keywords": [
+    "config",
+    "reload"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Leo He",
+    "email": "pisceanfoot@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HCDLearning/config-reload.git"
+  }
+}
